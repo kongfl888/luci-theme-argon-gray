@@ -501,7 +501,7 @@ small {
 }
 .main-left .sidenav-header .brand {
   font-size: 1.8rem;
-  color: #5e72e4;
+  color: gray;
   font-family: "TypoGraphica";
   text-decoration: none;
   text-align: center;
